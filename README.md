@@ -6,8 +6,7 @@
 </em></p>
 
 ### About Me
-
-I'm an enthusiastic and aspiring software developer. I have a strong foundation in Java, SQL, and Spring Boot, and I'm continually improving my skills in data structures and algorithms (DSA).
+Aspiring Software Developer. I have a strong foundation in Java, SQL, and Spring Boot, and I'm continually improving my skills in data structures and algorithms (DSA).
 
 
 ### 🛠️ Technologies & Tools
