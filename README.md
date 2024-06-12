@@ -17,7 +17,15 @@ I'm an enthusiastic and aspiring software developer. I have a strong foundation 
 
 ![Dhanush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanushdh01&show_icons=true&theme=radical)
 
+### 🔍 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushdh01&layout=compact&theme=radical)
+
+
 ### 📫 Get in Touch
 
+- **Scaler:** [Dhanush's Scaler Profile](https://www.scaler.com/academy/profile/7ed363bf08e4/)
 - **LinkedIn:** [Dhanush's LinkedIn Profile](https://www.linkedin.com/in/dhanush-s-554873243)
 - **Email:** dhanushdh01@gmail.com
+- **WhatsApp:** [Need to discuss something...](https://wa.me/918825725960?text=Hii)
+
