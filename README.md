@@ -1,12 +1,12 @@
 # Hi there, I'm Dhanush! 👋
 
-## Aspiring Software Developer
+## Software Developer
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 </em></p>
 
 ### About Me
-Aspiring Software Developer. I have a strong foundation in Java, SQL, and Spring Boot, and I'm continually improving my skills in data structures and algorithms (DSA).
+Software Developer. I have a strong foundation in Java, SQL, and Spring Boot, and I'm continually improving my data structures and algorithms (DSA) skills.
 
 
 ### 🛠️ Technologies & Tools
